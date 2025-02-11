@@ -1,0 +1,13 @@
+main>h1 {
+    color: magenta;
+}
+main>p {
+    font-style: italic;
+}
+main>div>p{
+    background-color: maroon;
+    color: white;
+}
+main>div>img {
+    border-radius: 50%;
+}
