@@ -1,0 +1,15 @@
+main>h1{
+    color: saddlebrown;
+}
+
+main>p{
+    color: rgb(64, 64, 24);
+}
+
+div>h2{
+    color: rgb(193, 22, 127);
+}
+
+body{
+    background-color: rgb(6, 5, 5);
+}
