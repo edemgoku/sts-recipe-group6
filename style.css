@@ -1,0 +1,14 @@
+main h1 {
+    color: red;
+}
+main>p {
+    font-family: 'Franklin Gothic Medium';;
+}
+main div p {
+    background-color: lightblue;
+}
+main>div>img {
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+}
